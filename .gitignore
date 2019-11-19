@@ -4,3 +4,7 @@
 /venv3/
 /.idea/
 /windows.bat
+__pycache__/
+*.py[cod]
+
+bot/__pycache__/
