@@ -1,0 +1,14 @@
+aiohttp==1.0.5
+async-timeout==3.0.1
+chardet==3.0.4
+cycler==0.10.0
+discord.py==0.16.12
+kiwisolver==1.0.1
+matplotlib==3.0.1
+multidict==4.4.2
+numpy==1.15.4
+pyparsing==2.3.0
+python-dateutil==2.7.5
+python-dotenv==0.10.3
+six==1.11.0
+websockets==3.4

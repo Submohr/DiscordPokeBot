@@ -1,0 +1,1 @@
+"C:\_full_path_to_venv_\Scripts\activate.bat" && python -m bot
